@@ -3,7 +3,7 @@ import time
 os.system("clear")
 print"""
 		---------------------------------------------
-		-             ROT13 Coder/Decoder           -
+		-         ROT13 Encryption/Decryption       -
 		-              By : Ayoub Ourass            -
 		-  https://www.facebook.com/ayoub.flack.90  -
 		---------------------------------------------                                                        
